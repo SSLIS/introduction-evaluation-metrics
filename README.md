@@ -1,10 +1,4 @@
----
-author: Björn Ekström
-title: Instruktion för precision-recall.ipynb
-geometry: margin=2cm
----
-
-Här följer en kort instruktion för att komma igång med Python-notebooken precision-recall.ipynb för att beräkna precision, recall och flera andra evalueringsmått.
+Kort instruktion för att komma igång med Python-notebooken precision-recall.ipynb för att beräkna precision, recall och flera andra evalueringsmått.
 
 # Google Colab
 
