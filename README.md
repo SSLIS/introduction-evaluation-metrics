@@ -17,7 +17,7 @@ Kort instruktion för att komma igång med Jupyter notebook:en precision-recall.
 
 ## Jupyter Notebook
 
-(Kräver installation av ett Python-gränssnitt, t ex Anaconda)
+(Kräver installation av ett Python-gränssnitt, t ex [Anaconda](https://www.anaconda.com/))
 
 ![](anaconda.png)
 
