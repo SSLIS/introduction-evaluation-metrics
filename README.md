@@ -1,21 +1,21 @@
-Kort instruktion för att komma igång med Python-notebooken precision-recall.ipynb för att beräkna precision, recall och flera andra evalueringsmått.
+# Precision och recall
 
-# Google Colab
+Kort instruktion för att komma igång med Jupyter notebook:en precision-recall.ipynb för att beräkna precision, recall och flera andra evalueringsmått.
+
+## Google Colab
 
 (Kräver ett Google-konto)
 
 ![](google-colab.png)
 
-* Hämta precision-recall.ipynb till din hårddisk.
+* Hämta filen precision-recall.ipynb till din hårddisk.
 * Navigera till Google Colab: https://colab.research.google.com/.
 * Välj Arkiv -> Öppna anteckningsbok.
 * Navigera till den plats på din hårddisk där du sparat precision-recall.ipynb.
 * Klicka på filen.
 * Följ instruktionerna och klicka på Play-knappen bredvid varje kodruta för att köra koden.
 
-\newpage
-
-# Jupyter Notebook
+## Jupyter Notebook
 
 (Kräver installation av ett Python-gränssnitt, t ex Anaconda)
 
