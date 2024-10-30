@@ -35,10 +35,10 @@ Short instruction to get started with a Jupyter notebook to compute precision, r
 
 (Requires a Google account.)
 
-* Download [performance-metrics.ipynb](performance-metrics.ipynb) to your harddrive.
+* Download [evaluation-metrics.ipynb](evaluation-metrics.ipynb) to your harddrive.
 * Navitage to [Google Colab](https://colab.research.google.com).
 * Select *File* -> *Open notebook*.
-* Navitage to the directory on your harddrive where you saved [performance-metrics.ipynb](performance-metrics.ipynb).
+* Navitage to the directory on your harddrive where you saved [evaluation-metrics.ipynb](evaluation-metrics.ipynb).
 * Select the file.
 * Follow the instructions and click the *Play* button next to each code cell to run the code.
 
@@ -46,10 +46,10 @@ Short instruction to get started with a Jupyter notebook to compute precision, r
 
 (Requires the installation of a Python distribution, e.g. [Anaconda](https://www.anaconda.com).)
 
-* Download [performance-metrics.ipynb](performance-metrics.ipynb) to your harddrive.
+* Download [evaluation-metrics.ipynb](evaluation-metrics.ipynb) to your harddrive.
 * Download and install [Anaconda](https://www.anaconda.com).
 * Open Jupyter Notebook via Anaconda Navigator.
 * Select *File* -> *Open...*.
-* Navitage to the directory on your harddrive where you saved [performance-metrics.ipynb](performance-metrics.ipynb).
+* Navitage to the directory on your harddrive where you saved [evaluation-metrics.ipynb](evaluation-metrics.ipynb).
 * Select the file.
 * Follow the instructions and click the *Run* button next to each code cell to run the code.
