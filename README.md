@@ -1,4 +1,4 @@
-# Information retrieval performance metrics
+# Introduction to information retrieval evaluation metrics
 
 ## Swedish
 
